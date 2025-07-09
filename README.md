@@ -4,13 +4,13 @@
 
 ## `LOADING...`
 
-`...`
+## `...`
 
-`COMPLETED!`
+## `COMPLETED!`
 
 ══════════════
 
-# `WELCOME BACK, iTRAPPED!`
+## `WELCOME BACK, iTRAPPED!`
 
 ➤ USERNAME: Soapexists !!
 
@@ -26,22 +26,22 @@ EXTRA: I roleplay on Discord and Pony.town !! I like Forsaken, Maymadness2012, T
 
 ══════════════
 
-`DO YOU WISH TO DELETE?`
+## `DO YOU WISH TO DELETE?`
 
-`YES.`
+## `YES.`
 
-`ARE YOU SURE?`
+## `ARE YOU SURE?`
 
-`YES.`
+## `YES.`
 
-`FILE DELETING...`
+## `FILE DELETING...`
 
-`...`
+## `...`
 
-`SUCCESS!`
+## `SUCCESS!`
 
-` WE'LL SEE YOU LATER, iTRAPPED. `
+## ` WE'LL SEE YOU LATER, iTRAPPED. `
 
-`SHUTTING DOWN...`
+## `SHUTTING DOWN...`
 
 ╚═══*.·:·.☽✧    ✦    ✧☾.·:·.*═══╝
