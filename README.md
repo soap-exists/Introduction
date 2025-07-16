@@ -22,7 +22,7 @@
 
 ➤ PRONOUNS: Any/All !!
 
-EXTRA: I roleplay on Discord and Pony.town !! I like Forsaken, Maymadness2012, Two Time, and iTrapped !! Feel free to interact unless stated otherwise !!
+EXTRA: I roleplay on Discord and Pony.town !! I like Forsaken, Maymadness2012, Two Time, iTrapped, and Chance !! Feel free to interact unless stated otherwise !!
 
 ══════════════
 
